@@ -1,6 +1,6 @@
 {
     "name": "coolstore-microservice",
-    "description": "Web UI for the CoolStore Microservices App",
+    "description": "A JBoss Developer retail demo featuring a pricing microservice, angular UI microservice, protected by Red Hat SSO",
     "authors": [
         "Red Hat"
     ],
@@ -17,7 +17,7 @@
     },
     "resolutions": {
         "angular": "1.5.10",
-        "bootstrap": "3.3.7",
-        "jquery": "3.4.0"
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1"
     }
 }
